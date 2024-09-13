@@ -1,0 +1,1 @@
+# telif_hakki_bildirgem
