@@ -1,8 +1,8 @@
-© 2025 YCŞ SOFTWARE. Tüm hakları EBEDİYYEN saklıdır.
+© 2026 YCŞ YAZILIM. Tüm hakları EBEDİYYEN saklıdır.
 
 BU SİTEYİ KULLANARAK TELİF HAKKI BİLDİRGESİNİ OKUMUŞ VE KABUL ETMİŞ SAYILIRSINIZ.
 
-Eser sahibi YCŞ SOFTWARE, bu web sitesi ve içeriğinde bulunan tüm materyallerin telif hakkını elinde bulundurur. Bu içerikler, yazılar, görseller, grafikler, logolar, markalar, ses kayıtları, videolar, yazılımlar, kodlar, veri tabanları ve diğer her türlü sanatsal ve entelektüel materyaller dahil olmak üzere, Türkiye Cumhuriyeti'nin yasal düzenlemeleri ve uluslararası telif hakları anlaşmaları kapsamında korunmaktadır. Bu yasal düzenlemeler ve anlaşmalar, telif haklarını ve fikri mülkiyet haklarını düzenleyen ve eser sahiplerinin haklarını koruyan hükümleri içerir.
+Eser sahibi YCŞ YAZILIM, bu web sitesi ve içeriğinde bulunan tüm materyallerin telif hakkını elinde bulundurur. Bu içerikler, yazılar, görseller, grafikler, logolar, markalar, ses kayıtları, videolar, yazılımlar, kodlar, veri tabanları ve diğer her türlü sanatsal ve entelektüel materyaller dahil olmak üzere, Türkiye Cumhuriyeti'nin yasal düzenlemeleri ve uluslararası telif hakları anlaşmaları kapsamında korunmaktadır. Bu yasal düzenlemeler ve anlaşmalar, telif haklarını ve fikri mülkiyet haklarını düzenleyen ve eser sahiplerinin haklarını koruyan hükümleri içerir.
 
 Türkiye'de Telif Hakları Uygulamaları:
 Türkiye Cumhuriyeti Fikir ve Sanat Eserleri Kanunu, eser sahiplerinin mali ve manevi haklarını koruyan temel yasal çerçevedir. Bu kanun, eserlerin izinsiz çoğaltılmasına, dağıtılmasına, değiştirilmesine, umuma iletilmesine ve yayılmasına karşı koruma sağlar. Eser sahipleri, eserlerinin izinsiz kullanımına karşı çeşitli haklara sahiptir ve bu haklar, izinsiz kullanım durumunda cezai ve hukuki sonuçlar doğurabilir.
@@ -30,11 +30,14 @@ Roma Sözleşmesi, icracı sanatçıların, fonogram yapımcılarının ve yayı
 
 Bu web sitesine erişim ve kullanım, kullanıcıların bu telif hakkı bildirimini ve web sitesinin kullanım şartlarını kabul ettiği anlamına gelir. Kullanıcılar, eser sahiplerinin mülkiyet haklarını ve yasal haklarını tanıyarak web sitesini kullanmayı kabul ederler.
 
-YCŞ SOFTWARE, telif hakları ihlallerine karşı sıfır tolerans politikası benimser ve ihlallerin cezai ve hukuki sonuçlar doğurabileceğini belirtir. Telif hakları ihlallerine karşı yasal işlem başlatma hakkını saklı tutar. Bu adımlar, mahkeme kararları, ihtar mektupları veya diğer yasal girişimler yoluyla gerçekleştirilebilir. Kullanıcıların bu web sitesinde yer alan materyalleri izinsiz kullanmamaları önemlidir. İzinsiz kullanım, telif hakkı ihlaline ve yasal yaptırımlara yol açabilir.
+YCŞ YAZILIM, telif hakları ihlallerine karşı sıfır tolerans politikası benimser ve ihlallerin cezai ve hukuki sonuçlar doğurabileceğini belirtir. Telif hakları ihlallerine karşı yasal işlem başlatma hakkını saklı tutar. Bu adımlar, mahkeme kararları, ihtar mektupları veya diğer yasal girişimler yoluyla gerçekleştirilebilir. Kullanıcıların bu web sitesinde yer alan materyalleri izinsiz kullanmamaları önemlidir. İzinsiz kullanım, telif hakkı ihlaline ve yasal yaptırımlara yol açabilir.
 
 Ayrıca, uluslararası düzeyde telif haklarının korunması, eser sahiplerine küresel ölçekte eserlerini güvence altına alma imkânı sunar. Türkiye'nin taraf olduğu bu sözleşmeler, eser sahiplerinin yararına birçok avantaj getirir ve eserlerin korunması için ek olanaklar sağlar. Eser sahipleri, uluslararası anlaşmaların sağladığı hakları etkin bir şekilde kullanarak, eserlerinin izinsiz çoğaltılmasına, dağıtılmasına veya umuma iletilmesine karşı korunabilir.
 
 Sonuç olarak, kullanıcılar, bu web sitesinin telif haklarını ve fikri mülkiyet haklarını ciddiyetle ele almalı ve eserin izinsiz kullanımının telif hakkı ihlaline yol açabileceğini bilmelidir. İzinsiz kullanım, hem yerel hem de uluslararası düzeyde cezai ve hukuki yaptırımlarla karşılaşma riskini taşır. Dolayısıyla, eser sahiplerinin haklarını gözeterek ve web sitesinde yer alan içerikleri izinsiz kullanmaktan kaçınarak, hem yasaları ihlal etmemiş hem de eser sahiplerinin haklarına saygı göstermiş olursunuz.
+
+YCŞ YAZILIM bir DEMO projedir.
+
 
 
 
